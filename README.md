@@ -1,2 +1,2 @@
 # MA6628
-For assignment only.
+For assignments only.
