@@ -6,6 +6,6 @@ Click [Here](https://github.com/songqsh/MA6628v02/blob/master/Assignments.ipynb)
 The solutions are given below.
 
 - [Prj01](Prj01.ipynb)
-- Prj02
+- [Prj02](Prj02_V2.ipynb)
 - Prj03
 - Prj04
