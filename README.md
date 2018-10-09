@@ -8,4 +8,4 @@ The solutions are given below.
 - [Prj01](Prj01.ipynb)
 - [Prj02](Prj02.ipynb)
 - Prj03
-- Prj04
+- [Prj04](Prj04.ipynb)
